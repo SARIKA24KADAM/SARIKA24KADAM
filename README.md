@@ -25,3 +25,16 @@ I enjoy working with data, building machine learning models, analyzing complex d
 ---
 
 Thanks for visiting!
+
+<details>
+<summary>🎮 Quick challenge: Can you guess the programming language?</summary>
+
+I use it to analyze data, build models, and create visualizations. It starts with **P**.
+
+<details>
+<summary>Reveal answer</summary>
+
+**Python** 🐍
+
+</details>
+</details>
