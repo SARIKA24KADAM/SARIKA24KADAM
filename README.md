@@ -25,5 +25,3 @@ I enjoy working with data, building machine learning models, analyzing complex d
 ---
 
 Thanks for visiting!
-
-🎮 [Play Fraud Signal — a two-minute data challenge](https://SARIKA24KADAM.github.io/fraud-signal.html)
