@@ -1,18 +1,16 @@
 <h1 align="center">Hi, I'm Sarika 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarika-kadam24/">LinkedIn</a> ·
-  <a href="mailto:sarika24kadam@gmail.com">Email</a> ·
-  Canada
+  🎓 PhD Researcher in Computer Science at UQAC, Canada<br>
+  📊 Data Scientist | Machine Learning | AI/LLM Evaluation
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarika-kadam24/">LinkedIn</a> ·
+  <a href="mailto:sarika24kadam@gmail.com">Email</a>
+</p>
 
-### About me
-
-I'm a Data Scientist with industry experience in data analysis, Python-based data processing, SQL, and AI/LLM evaluation. I’m also pursuing a PhD in Computer Science at Université du Québec à Chicoutimi, where my doctoral research examines specification–test alignment across large software codebases.
-
-I enjoy analyzing complex datasets, building automated analytical workflows, investigating data quality and system behavior, and turning findings into clear, actionable insights. My experience spans research, AI evaluation, enterprise analytics, and telecommunications.
+I enjoy working with data, building machine learning models, analyzing complex datasets, and developing data-driven solutions.
 
 ### Focus areas
 
