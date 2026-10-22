@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarika <img src="https://raw.githubusercontent.com/SARIKA24KADAM/SARIKA24KADAM/main/waving-hand.svg" width="36" height="36" alt="waving hand"></h1>
 
 <p align="center">
-  🎓 PhD Researcher in Computer Science at UQAC, Canada<br>
+  🎓 PhD Candidate in Computer Science at UQAC, Canada<br>
   📊 Data Scientist | Machine Learning | AI/LLM Evaluation
 </p>
 
