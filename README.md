@@ -12,15 +12,6 @@
 
 I enjoy working with data, building machine learning models, analyzing complex datasets, and developing data-driven solutions.
 
-### Focus areas
-
-- Data analysis, statistics, and experimentation
-- Python, SQL, PostgreSQL, pandas, NumPy, and scikit-learn
-- Data pipelines, validation, reconciliation, and quality analysis
-- Machine learning, fraud detection, and risk segmentation
-- AI/LLM benchmarking and reliability evaluation
-- Research analysis, visualization, and technical reporting
-
 ---
 
 ### Projects
