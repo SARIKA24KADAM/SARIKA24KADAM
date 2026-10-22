@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarika Kadam 👋</h1>
+<h1 align="center">Hi, I'm Sarika 👋</h1>
 
 <p align="center">
   <a href="https://github.com/SARIKA24KADAM">GitHub Profile</a>
