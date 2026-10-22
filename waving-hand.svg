@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g>
+    <text x="8" y="76" font-family="Apple Color Emoji, Segoe UI Emoji, sans-serif" font-size="72">👋</text>
+    <animateTransform attributeName="transform" type="rotate" values="-12 48 52;14 48 52;-10 48 52;12 48 52;-12 48 52" dur="1.1s" repeatCount="indefinite"/>
+  </g>
+</svg>
